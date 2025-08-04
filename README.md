@@ -1,8 +1,3 @@
-Absolutely! Here's a professional and clean **README.md** file you can use for your GitHub repository. This version assumes your project is a **text classification** task using **Multinomial Naive Bayes** and **CountVectorizer** in **scikit-learn**. You can edit the dataset name or project title as needed.
-
----
-
-```markdown
 # 🧠 Text Classification using Multinomial Naive Bayes
 
 This project demonstrates a complete pipeline for building and evaluating a text classification model using **Multinomial Naive Bayes** and **Bag-of-Words (CountVectorizer)**. It includes data preprocessing, model training, prediction, and performance evaluation using key metrics like accuracy, confusion matrix, and ROC-AUC.
