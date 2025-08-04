@@ -101,7 +101,7 @@ The Multinomial Naive Bayes classifier performed exceptionally well, achieving h
 
 ## 📌 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MIT License].
 
 ---
 
@@ -114,10 +114,3 @@ Pull requests and suggestions are welcome. For major changes, please open an iss
 ## 🙌 Acknowledgments
 
 Thanks to the creators of **scikit-learn** and the open datasets that made this project possible.
-
-```
-
----
-
-Would you like me to generate a `requirements.txt`, a sample `main.py`, or a `LICENSE` file to go with this?
-```
